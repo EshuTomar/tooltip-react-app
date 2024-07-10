@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+  padding: 20vh 30vw;
+}
+
+#buttons {
+  margin-top: 20vh;
+}
